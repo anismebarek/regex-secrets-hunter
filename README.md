@@ -12,7 +12,8 @@ This repository contains useful regular expressions to identify secrets in JavaS
 
 ## 📄 File
 
-All regex patterns are located in [`regex-patterns.txt`](./https://github.com/anismebarek/regex-secrets-hunter/blob/main/regex)
+All regex patterns are located in [`regex`](./regex)
+
 
 ## ⚠️ Disclaimer
 
